@@ -93,10 +93,14 @@ Testing Methodologies:
 Test Case Execution Status:
 
 
-Test Case Status             	Build Result
+Test Case Status             Build Result
+
 Total Number of Test Case	       14
+
 Passed Test Case	               12
+
 Failed Test Case                	1
+
 Blocked/Skipped Test Case       	1
 
 
@@ -104,10 +108,15 @@ Defects Status:
 
 
 Defect Status      	Build Result
+
 Total number	           5
+
 Blocker	                 0
+
 Critical               	 3
+
 Major	                   2
+
 Minor	                   0
 
 
