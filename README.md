@@ -143,8 +143,10 @@ Recommondations and suggestions:
 If i have done any mistake or if left any defect feel to modify it
 
 
-Feedback
-•	If you have any feedback, please reach out to me at chamlearti95@gmail.com
+Feedback:
+
+
+If you have any feedback, please reach out to me at chamlearti95@gmail.com
 
 
 
