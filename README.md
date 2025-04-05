@@ -1,12 +1,17 @@
 Productivity_Suite_Manual-Testing
 
+
 Productivity suite is a simple, all-in-one productivity web app to help you stay focused and organized.
+
 
 Objective:
 
+
 The goal of this project is to create a lightweight, user-friendly productivity tool that combines essential features like task management, note-taking, and focus timers—all in one clean and responsive interface. It’s designed for individuals who want to boost their efficiency without the overhead of complex apps.
 
+
 Tools used in the project:
+
 
 •	X mind map Tool
 
@@ -14,7 +19,9 @@ Tools used in the project:
 
 •	Microsoft Word
 
+
 Browsers:
+
 
 •	Chrome
 
@@ -24,19 +31,25 @@ Browsers:
 
 •	Edge
 
+
 Directory Structure:
+
 
 Productivity_Suite-ManualTesting
 
 / Productivity_Test_Plan / Productivity_Test_Scenarios / Productivity_Xmind_map / Productivity_Bug Report / Productivity_Summary_Report
 
+
 Application Under Test:
+
 
 AUT URL: https://productivity-suit.vercel.app/index.html
 
 Scope:
 
+
 Features To Be Tested:
+
 
 •  ✅ To-Do List: Add, edit, and complete tasks
 
@@ -48,7 +61,9 @@ Features To Be Tested:
 
 •  📱 Responsive UI for both desktop and mobile devices
 
+
 Testing Types:
+
 
 •	Functional Testing 
 
@@ -62,7 +77,9 @@ Testing Types:
 
 •	Regression Testing 
 
+
 Testing Methodologies:
+
 
 •	Black Box Testing 
 
@@ -72,7 +89,9 @@ Testing Methodologies:
 
 •	Manual Testing 
 
+
 Test Case Execution Status:
+
 
 Test Case Status             	Build Result
 Total Number of Test Case	       14
@@ -80,7 +99,9 @@ Passed Test Case	               12
 Failed Test Case                	1
 Blocked/Skipped Test Case       	1
 
+
 Defects Status:
+
 
 Defect Status      	Build Result
 Total number	           5
@@ -89,7 +110,9 @@ Critical               	 3
 Major	                   2
 Minor	                   0
 
+
 Attachments:
+
 
 ![Screenshot (1206)](https://github.com/user-attachments/assets/20f1ce7f-9e25-4e9f-9704-d5978aacb21f)
 
@@ -106,7 +129,9 @@ Attachments:
 ![Screenshot (1212)](https://github.com/user-attachments/assets/52e12527-8e35-4fa3-82f6-4695f4f2c90b)
 
 
+
 Recommondations and suggestions:
+
 
 •	User On boarding: Introduce tutorials or guides to assist new users in navigating features. 
 
@@ -114,7 +139,9 @@ Recommondations and suggestions:
 
 •	Feedback Mechanism: Implement a system for users to report issues or suggest improvements.
 
+
 If i have done any mistake or if left any defect feel to modify it
+
 
 Feedback
 •	If you have any feedback, please reach out to me at chamlearti95@gmail.com
